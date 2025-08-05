@@ -1,0 +1,28 @@
+{
+  "e951edf8d806203980910b2c4a834871d36c6e531db028cbc0dfd5a9c362b60c0521f1c7f1aa77bb6ed3a556bfdeea86f2fb14d97a90eb7a3268263f20b7ce4c": {
+    "nombre": "Aldair Ismael Puco Almeida",
+    "cedula": "2300571995",
+    "correo": "pucoaldair2011@gmail.com",
+    "celular": "0939870959",
+    "curso": "Inteligencia Artificial Aplicada a la Docencia",
+    "aprobacion": "Aprobado",
+    "horas": "60",
+    "inicio": "16/06/2025",
+    "fin": "18/07/2025",
+    "emision": "05/08/2025",
+    "estado": "V\u00e1lido"
+  },
+  "3ef579d23004c6a6e8ac24eb051ed1094dc58d66b12aa98d467f9bdf0a767cfb89d7d7444097f15a654d8a37bb85aa6f49bad8718248148dd7f366800ca933cc": {
+    "nombre": "Marjorie Briggeth Basurto Luzuriaga ",
+    "cedula": "2300581952",
+    "correo": "marjoriebasluz99@gmail.com",
+    "celular": "0963980168",
+    "curso": "Inteligencia Artificial Aplicada a la Docencia",
+    "aprobacion": "Aprobado",
+    "horas": "60",
+    "inicio": "17/06/2025",
+    "fin": "19/07/2025",
+    "emision": "05/08/2025",
+    "estado": "V\u00e1lido"
+  }
+}
