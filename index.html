@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Validación de Certificados</title>
+  <script>
+    async function validarCertificado() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const hash = urlParams.get("hash");
+
+      if (!hash) {
+        document.getElementById("resultado").innerHTML = "⚠️ No se especificó ningún código.";
+        return;
+      }
+
+      try {
+        const response = await fetch("certificados.json");
+        const data = await response.json();
+
+        if (data[hash]) {
+          const cert = data[hash];
+          document.getElementById("resultado").innerHTML = `
+            ✅ <b>Certificado Válido</b><br>
+            <b>Nombre:</b> ${cert.nombre}<br>
+            <b>Cédula:</b> ${cert.cedula}<br>
+            <b>Curso:</b> ${cert.curso}<br>
+            <b>Estado:</b> ${cert.estado}
+          `;
+        } else {
+          document.getElementById("resultado").innerHTML = "❌ Certificado no encontrado.";
+        }
+      } catch (err) {
+        document.getElementById("resultado").innerHTML = "❌ Error al cargar la base de datos.";
+      }
+    }
+
+    window.onload = validarCertificado;
+  </script>
+</head>
+<body>
+  <h1>Validador de Certificados</h1>
+  <div id="resultado">Cargando...</div>
+</body>
+</html>
