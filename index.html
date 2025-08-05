@@ -6,7 +6,8 @@
   <script>
     async function validarCertificado() {
       const urlParams = new URLSearchParams(window.location.search);
-      const hash = urlParams.get("hash");
+      const hash = urlParams.get("hash")?.trim();
+
 
       if (!hash) {
         document.getElementById("resultado").innerHTML = "⚠️ No se especificó ningún código.";
