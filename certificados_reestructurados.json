@@ -108,5 +108,101 @@
     "inicio": "26/06/2025",
     "fin": "28/07/2025",
     "emision": "05/08/2025"
-  }
+  },
+  "4cc0b25fcc01c302d29abecb25213ce8d621d0f5c96f5393c83fdfd2cf2b06db95fc5fc11b09402c9fa1ac91d442fee95f7fa366097087686d19bf833332e110": {
+        "nombre": "Gordon Álvarez Elaine Elizabeth",
+        "cedula": "2350186132",
+        "correo": "nicoeegordon2@espe.edu.ec",
+        "celular": "984730543",
+        "curso": "Precálculo",
+        "aprobacion": "Aprobado",
+        "horas": "35",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "11/11/2025"
+    },
+    "e04f18dc15573dd02a9554ea5d5376c2ea73e08efa3978777cf86e8b7e5879ee96f7ced07a751416c2a87c59c51af9a104f98d20036dcdfc2d1a9fbd7b6996b7": {
+        "nombre": "Cadena Saavedra Alisson Fernanda",
+        "cedula": "2300576614",
+        "correo": "afcadena2@espe.edu.ec",
+        "celular": "991147517",
+        "curso": "Precálculo",
+        "aprobacion": "Aprobado",
+        "horas": "35",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "11/11/2025"
+    },
+    "12c6c25986e23d0ec0ac5faf55a9bd846f27d1be87047e803a0cc5ac65f9d6f28a2bf7606db43e42cfde9a2963f08a377e31f9c4b21c1dfdd45697c85e17083c": {
+        "nombre": "Caicedo Gualsaqui Stefany Mayerli",
+        "cedula": "2350893158",
+        "correo": "caicedomayerli173@gmail.com",
+        "celular": "986187857",
+        "curso": "Precálculo",
+        "aprobacion": "Aprobado",
+        "horas": "35",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "11/11/2025"
+    },
+    "843d00c54c8655b76b4ed45430c6e8c0b68c1f309b59aa4c6fdedc8facfecfbfe092b83430da7f0f0dc5c0e4a9381962c6e5bed02b149aad57cca7f247b8b992": {
+        "nombre": "Chalaco Piedrahita Kerly Victoria",
+        "cedula": "2351092966",
+        "correo": "kvchalaco@espe.edu.ec",
+        "celular": "993817247",
+        "curso": "Precálculo",
+        "aprobacion": "Aprobado",
+        "horas": "35",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "11/11/2025"
+    },
+    "caff82fb8c7c58b1ebbf46d22cbc184897f841e202dc07529cd8bb03039e84719b9a3f046bbc2d3c45d350a50be0dc88053987d9177c884299405f87304144d0": {
+        "nombre": "Intriago Farias Melanie Vanessa",
+        "cedula": "2350922775",
+        "correo": "mvintriago2@espe.edu.ec",
+        "celular": "979792241",
+        "curso": "Precálculo",
+        "aprobacion": "Aprobado",
+        "horas": "35",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "11/11/2025"
+    },
+    "6ffd4ed8da7ca2649fd28a7abf2e4ea5cb2bc1e7d58efe6084f13beff1b1dbd96b8f22bb3c79d6f2ed3697665675662f006fa12dbf91b21ee47485245bbe4b8b": {
+        "nombre": "Manzaba Moreira Marilyn Marilexy",
+        "cedula": "850396219",
+        "correo": "marilynmazamba0@gmail.com",
+        "celular": "988591856",
+        "curso": "Precálculo",
+        "aprobacion": "Aprobado",
+        "horas": "35",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "11/11/2025"
+    },
+    "ad326cbd1766013db367758aa4483cd85248ac4c8f7fe1629f06b9a3082d8454ffe6e475446122f3887489a39883a9eb10a81a2ce4cf2c1a3305bda0eb57eaa6": {
+        "nombre": "Cedeño Matamoros Danael Judith",
+        "cedula": "2350923054",
+        "correo": "djcedeno5@espe.edu.ec",
+        "celular": "963103182",
+        "curso": "Precálculo",
+        "aprobacion": "Aprobado",
+        "horas": "35",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "11/11/2025"
+    },
+    "20d3a8566c49aa40d985c1e1f561e6dff5a9971dea37a77ffd65e90138bb8a0a1f89cbe8cd8d9c990e984f846171eecdd35867a38cb843b49ab191ca6efd42d8": {
+        "nombre": "Jimenez Galarraga Ricardo Ismael",
+        "cedula": "2350900987",
+        "correo": "rijimenez@espe.edu.ec",
+        "celular": "987258184",
+        "curso": "Precálculo",
+        "aprobacion": "Aprobado",
+        "horas": "35",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "11/11/2025"
+    }
 }
